@@ -7,6 +7,19 @@ Earlier versions, from before this repository existed, are not reproduced here.
 
 <!-- releases -->
 
+## 1.3.1
+
+**The app now looks for a new version when it starts, and says so with a notification.** Once per
+version, deliberately: if it came back on every launch until you updated, the notification would stop
+being read. The Updates section on About is still there with its button, for checking whenever you
+feel like it.
+
+**The licence is no longer MIT.** It should not have been. This app is free to use for building ROMs
+for your own devices, and it is not free to redistribute, to ship alongside your own builds, or to
+re-upload somewhere else. The wording is in `LICENSE`, and About says the same thing.
+
+If you are already on 1.3.0, this is the first release the app will offer you by itself.
+
 ## 1.3.0
 
 **The app now updates itself.** About has an **Updates** section that knows when a newer build has
