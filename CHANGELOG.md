@@ -7,6 +7,28 @@ Earlier versions, from before this repository existed, are not reproduced here.
 
 <!-- releases -->
 
+## 1.3.0
+
+**The app now updates itself.** About has an **Updates** section that knows when a newer build has
+been published, and offers to install it. It runs the installer with its own wizard, so every step is
+visible, and the app closes first and comes back when the installation finishes.
+
+**Nothing is installed without being checked first.** The published manifest says how large the
+download should be and what its hash is, and a download that does not match is deleted rather than
+run. A portable copy is never handed an installer: it is told where to get the ZIP and to unzip it
+over its own folder, which is what someone who chose the ZIP wants.
+
+**An About page**, with the version, the exact build this is, and a link to the support channel.
+Diagnostics moved to the bottom of Settings, where the tools live.
+
+**Downloads now live in their own repository**, so the links in this release are not the ones you may
+have seen before. The installer and the portable ZIP are published there, and the app knows where to
+look for the next one.
+
+There is a **Telegram** button on About, which is the fastest way to report something broken. When
+something is wrong, Settings -> Run diagnostics writes a report of everything the app can see: copy it
+into the message and it saves a round of guessing.
+
 ## 1.2.0
 
 **The app now tells you when the build scripts have moved on.** If the repository has commits your
