@@ -58,4 +58,7 @@ That saves a round of guessing, and it is usually enough to spot the problem str
 
 ## Licence
 
-MIT.
+MIT. Use it, change it, ship it, sell it — just keep the copyright notice with it.
+
+Copyright (c) 2026 LumiROM. Provided as is, without warranty of any kind: the full text, the
+one that actually counts, is in [LICENSE](LICENSE).
