@@ -58,7 +58,10 @@ That saves a round of guessing, and it is usually enough to spot the problem str
 
 ## Licence
 
-MIT. Use it, change it, ship it, sell it — just keep the copyright notice with it.
+© 2026 LumiROM. All rights reserved.
 
-Copyright (c) 2026 LumiROM. Provided as is, without warranty of any kind: the full text, the
-one that actually counts, is in [LICENSE](LICENSE).
+You are welcome to download this app and use it to build ROMs for your own devices. You are not
+welcome to redistribute it, in whole or in part, or to ship it along with your own builds, without
+written permission. The full wording is in [LICENSE](LICENSE).
+
+It is provided as is, without warranty of any kind.
