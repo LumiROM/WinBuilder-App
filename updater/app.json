@@ -1,0 +1,13 @@
+{
+  "app_name": "LumiROM Builder",
+  "version": "1.2.0",
+  "version_code": 10200,
+  "changelog": "https://github.com/LumiROM/WinBuilder-App/blob/main/CHANGELOG.md",
+  "download": {
+    "url": "https://github.com/LumiROM/WinBuilder-App/releases/download/v1.2.0/LumiROM.Builder-Setup.exe",
+    "filename": "LumiROM.Builder-Setup-1.2.0.exe",
+    "size_bytes": 60349035,
+    "sha256": "448ebcfdb3b2a6aa4dccff91f6cc72ca42f4f7295a0e648157e4369fcc4f0d79",
+    "install_type": "inno"
+  }
+}
