@@ -9,8 +9,6 @@ Earlier versions, from before this repository existed, are not reproduced here.
 
 ## 1.2.0
 
-## What's new in 1.2.0
-
 **The app now tells you when the build scripts have moved on.** If the repository has commits your
 checkout has never seen, Home says so and offers **Update now**, which fetches them and pulls, in the
 console, where you can watch it happen. There is also a **Check for new commits** button for whenever
